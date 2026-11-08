@@ -9,3 +9,4 @@ Quelle der Wahrheit ist das OneDrive (`…/Social Media/…/Final/`); hierher wi
 
 Nichts Privates ablegen — das Repo ist öffentlich.
 - `video/<kampagne>/` — fertige Videos (H.264-MP4, 9:16, ≤ 30 MB) für Reels/Video-Stories; nur mit Einwilligung der gezeigten Personen
+- `vorschau/2027/` – Social-Vorschau 2027 (Karussell 10 Seiten, Murwärts Festival Feed/Story), Entwürfe in bruecke-marketing/kultur/vorschau-2027
